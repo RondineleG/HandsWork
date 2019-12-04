@@ -3,9 +3,10 @@ image:
 
 tasks:
   - command: >
-      dotnet run &&
       dotnet restore &&
-      dotnet build
+      dotnet build &&
+      dotnet whatch run      
+     
   
 ports:
   - port: 5000
