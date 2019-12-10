@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Desenvolvimento-02\\Desktop\\Dev\\HandsWork\\src\\Data\\Data.csproj": {}
+    "/workspace/HandsWork/src/Data/Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Desenvolvimento-02\\Desktop\\Dev\\HandsWork\\src\\Business\\Business.csproj": {
+    "/workspace/HandsWork/src/Business/Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenvolvimento-02\\Desktop\\Dev\\HandsWork\\src\\Business\\Business.csproj",
+        "projectUniqueName": "/workspace/HandsWork/src/Business/Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Desenvolvimento-02\\Desktop\\Dev\\HandsWork\\src\\Business\\Business.csproj",
-        "packagesPath": "C:\\Users\\Desenvolvimento-02\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenvolvimento-02\\Desktop\\Dev\\HandsWork\\src\\Business\\obj\\",
+        "projectPath": "/workspace/HandsWork/src/Business/Business.csproj",
+        "packagesPath": "/home/gitpod/.nuget/packages/",
+        "outputPath": "/workspace/HandsWork/src/Business/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Desenvolvimento-02\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/gitpod/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,39 +56,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Desenvolvimento-02\\Desktop\\Dev\\HandsWork\\src\\Data\\Data.csproj": {
+    "/workspace/HandsWork/src/Data/Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenvolvimento-02\\Desktop\\Dev\\HandsWork\\src\\Data\\Data.csproj",
+        "projectUniqueName": "/workspace/HandsWork/src/Data/Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\Desenvolvimento-02\\Desktop\\Dev\\HandsWork\\src\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\Desenvolvimento-02\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenvolvimento-02\\Desktop\\Dev\\HandsWork\\src\\Data\\obj\\",
+        "projectPath": "/workspace/HandsWork/src/Data/Data.csproj",
+        "packagesPath": "/home/gitpod/.nuget/packages/",
+        "outputPath": "/workspace/HandsWork/src/Data/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Desenvolvimento-02\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/gitpod/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Desenvolvimento-02\\Desktop\\Dev\\HandsWork\\src\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\Desenvolvimento-02\\Desktop\\Dev\\HandsWork\\src\\Business\\Business.csproj"
+              "/workspace/HandsWork/src/Business/Business.csproj": {
+                "projectPath": "/workspace/HandsWork/src/Business/Business.csproj"
               }
             }
           }
@@ -136,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     }
