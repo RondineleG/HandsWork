@@ -1,8 +1,0 @@
-/home/rondinele/Desktop/Developer/HandsWork/src/HandsWork/Shared/bin/Debug/netstandard2.0/HandsWork.Shared.deps.json
-/home/rondinele/Desktop/Developer/HandsWork/src/HandsWork/Shared/bin/Debug/netstandard2.0/HandsWork.Shared.dll
-/home/rondinele/Desktop/Developer/HandsWork/src/HandsWork/Shared/bin/Debug/netstandard2.0/HandsWork.Shared.pdb
-/home/rondinele/Desktop/Developer/HandsWork/src/HandsWork/Shared/obj/Debug/netstandard2.0/HandsWork.Shared.csprojAssemblyReference.cache
-/home/rondinele/Desktop/Developer/HandsWork/src/HandsWork/Shared/obj/Debug/netstandard2.0/HandsWork.Shared.AssemblyInfoInputs.cache
-/home/rondinele/Desktop/Developer/HandsWork/src/HandsWork/Shared/obj/Debug/netstandard2.0/HandsWork.Shared.AssemblyInfo.cs
-/home/rondinele/Desktop/Developer/HandsWork/src/HandsWork/Shared/obj/Debug/netstandard2.0/HandsWork.Shared.dll
-/home/rondinele/Desktop/Developer/HandsWork/src/HandsWork/Shared/obj/Debug/netstandard2.0/HandsWork.Shared.pdb

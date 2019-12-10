@@ -1,0 +1,8 @@
+C:\Users\Desenvolvimento-02\Desktop\Dev\HandsWork\src\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Desenvolvimento-02\Desktop\Dev\HandsWork\src\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Desenvolvimento-02\Desktop\Dev\HandsWork\src\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Desenvolvimento-02\Desktop\Dev\HandsWork\src\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\Desenvolvimento-02\Desktop\Dev\HandsWork\src\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Desenvolvimento-02\Desktop\Dev\HandsWork\src\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Desenvolvimento-02\Desktop\Dev\HandsWork\src\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Desenvolvimento-02\Desktop\Dev\HandsWork\src\Business\obj\Debug\netcoreapp3.1\Business.pdb
